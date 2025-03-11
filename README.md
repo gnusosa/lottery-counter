@@ -71,6 +71,8 @@ Winning bet:
 2: 225397
 ```
 
+![counter](https://github.com/user-attachments/assets/3ad36d93-ad0e-45ec-884a-0102f27e0630)
+
 
 On a Thinkpad X1, I saw rates from 75ms to 85ms.
 This is a good result given the fact that there is no eccentric overcomplicated algorithm, but a classic divide-and-conquer (a lá MapReduce) concurrent funnel with go routines. This is a vainilla Go project using only the stdlib. This is a big win.
