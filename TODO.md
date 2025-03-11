@@ -1,0 +1,4 @@
+-[x] make constants file, move constants to it
+-[x] move main logic of io to ingestor file
+-[x] make processor logic move processing strings file to bets counter output
+-[x] figure out which is faster Scanner.scanlines or just Scanner.scan()
