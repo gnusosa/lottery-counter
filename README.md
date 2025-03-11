@@ -1,4 +1,4 @@
-### Lottery-Counter
+## Lottery-Counter
 The following program renders the selection of millions of bets in a lottery.
 
 winning bet: 5
